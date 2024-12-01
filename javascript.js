@@ -1,1 +1,1 @@
-document.querySelector('.js-selector').innerHTML='Every One';
+document.querySelector('.js-selector').innerHTML='Good Morning Every One';
