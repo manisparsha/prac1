@@ -1,0 +1,1 @@
+document.querySelector('.js-selector').innerHTML='Every One';
